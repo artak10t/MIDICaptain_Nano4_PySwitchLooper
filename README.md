@@ -3,6 +3,10 @@ Custom Firmware for Nano 4 and Ableton Live Surface Script for looping
 
 Firmware is based on PySwitch by Tunetown, it communicates with Albeton Live and correctly displays the current state of the Session Recording.
 
+While the Firmware is created for the Nano 4 model, it can be easily adapted to any other model.
+
+![Display]("https://i.imgur.com/FUSUtTf.jpeg")
+
 ## Installation Ableton
 1. Place MIDICaptain_Nano4_PySwitchLooper folder inside C:\Users\[User]\Documents\Ableton\User Library\Remote Scripts
 
