@@ -9,6 +9,7 @@ While the Firmware is created for the Nano 4 model, it can be easily adapted to 
 
 ## Installation Ableton
 1. Place MIDICaptain_Nano4_PySwitchLooper folder inside C:\Users\[User]\Documents\Ableton\User Library\Remote Scripts
+2. Midi map button 1 and 2
 
 ## Installation MidiCaptain
 1. Connect you device to your computer via USB and power it up. For PaintAudio MIDICaptain controllers, press and hold switch 1 while powering up to tell the controller to mount the USB drive.
