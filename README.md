@@ -5,7 +5,7 @@ Firmware is based on PySwitch by Tunetown, it communicates with Albeton Live and
 
 While the Firmware is created for the Nano 4 model, it can be easily adapted to any other model.
 
-![Display]("https://i.imgur.com/FUSUtTf.jpeg")
+![Display](https://i.imgur.com/FUSUtTf.jpeg)
 
 ## Installation Ableton
 1. Place MIDICaptain_Nano4_PySwitchLooper folder inside C:\Users\[User]\Documents\Ableton\User Library\Remote Scripts
